@@ -12,11 +12,9 @@ This makes the code easier to read, maintain, and extend.
 
 ## 📁 Project Structure
 
-python-question-project/
-│
-├── question_class.py # Contains the Question class
-├── question.py # Imports the class, defines questions, and runs the program
-└── README.md
+── question_class.py # Contains the Question class
+── question.py # Imports the class, defines questions, and runs the program
+── README.md
 
 
 ---
